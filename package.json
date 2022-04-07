@@ -1,8 +1,7 @@
 {
-    "name": "property-path",
+    "name": "path-of",
     "version": "1.0.0",
     "description": "utility type for property path and corresponding value",
-    "main": "index.js",
     "scripts": {
         "test": "xo && tsd && tsc"
     },
