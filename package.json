@@ -2,6 +2,7 @@
     "name": "path-of",
     "version": "1.0.0",
     "description": "utility type for property path and corresponding value",
+    "repository": "https://github.com/davidsx/property-path",
     "scripts": {
         "test": "xo && tsd && tsc"
     },
